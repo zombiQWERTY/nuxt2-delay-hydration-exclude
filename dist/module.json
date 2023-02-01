@@ -1,0 +1,5 @@
+{
+  "name": "nuxt-delay-hydration",
+  "configKey": "delayHydration",
+  "version": "0.4.7"
+}
